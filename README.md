@@ -1,0 +1,2 @@
+# path-and-trajectory-generation-inverse-and-forward-kinematics-for-a-continuous-robot
+MATLAB code generates a 3D circular reference trajectory for a flexible catheter. Inverse kinematics computes the parameters  ϕ, θ2 , d along the path. Forward kinematics reconstructs the actual tip position and compares it with the reference trajectory. Results are plotted and saved as a dataset for further analysis.
